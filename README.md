@@ -31,6 +31,12 @@ The data Presented to us consists of 60,000+ observations and 20 features + 1 cl
 - habitat (n): grasses=g, leaves=l, meadows=m, paths=p, heaths=h, urban=u, waste=w, woods=d
 - season (n): Spring=s, summer=u, autumn=a, winter=w
 
+# Classification Models Results
+![image](https://github.com/user-attachments/assets/4f87a424-e0df-4fd9-96df-0a44e8e305ac)
+
+# Confusion Matrix
+![image](https://github.com/user-attachments/assets/d51c2b80-650c-42a9-9eb8-e3fcecca8d4f)
+
 
 # Conclusion
 The project has demonstrated the application of Machine Learning in mushroom classification and how much remarkable potential it has in enhancing the accuracy of the prediction. And through the confusion matrix we saw that the train and test data is balanced. 
